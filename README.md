@@ -10,3 +10,5 @@ I think this article is interesting for a couple reasons. For one, I think it's 
 ## Jonathan Sussman Comment
 I agree it is good to see Apple and Google teaming up and using their resources to combat this issue. However, between the two companies and their approach that relies on pulling from pools of data to trace coronavirus, it will be interesting to see how they jump through hoops to attempt to avoid going too deeply into users' personal data in terms of users' location, age, demographic, etc
 
+## Humza Khan Comment
+I'm also glad to see big tech companies like Apple and Google use their resources for a good cause. Of course, the aforementioned privacy issue will probably raise some eyebrows, and it will be especially interesting to see how Apple tackles it, given their current "war" with Facebook on the issue of user privacy.
